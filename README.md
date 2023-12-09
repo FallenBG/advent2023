@@ -6,7 +6,7 @@
 | 4    | 0.89  | 1.15  |          |
 | 5    | 23    | Fail  | AI solution was very fast (2 seconds) but very wrong :D |
 | 6    | 22    | Fail  |          |
-| 7    |       |       |          |
+| 7    | 1     | 1.22  |          |
 | 8    |       |       |          |
 | 9    |       |       |          |
 | 10   |       |       |          |
